@@ -1,0 +1,26 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "testApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedm1/reactTest.git"
+  },
+  "keywords": [
+    "lalala"
+  ],
+  "author": "sd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedm1/reactTest/issues"
+  },
+  "homepage": "https://github.com/syedm1/reactTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
